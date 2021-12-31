@@ -186,7 +186,7 @@
 		"fAdsRecoilReductionLimit": 0.0,
 		"fAdsRecoilReductionRate": 0.0,
 		"fAdsRecoilReturnRate": 1.0,
-		"fAdsSpread": 0.0,
+		"fAdsSpread": 2.0,
 		"fAdsViewBobMult": 0.20000000298023224,
 		"fAdsViewKickCenterDuckedScale": 1.0,
 		"fAdsViewKickCenterProneScale": 1.0,

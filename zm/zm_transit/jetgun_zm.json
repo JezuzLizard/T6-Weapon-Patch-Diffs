@@ -295,7 +295,7 @@
 		"holdButtonToThrow": false,
 		"horizViewJitter": 0.0,
 		"hudIcon": "jetgun_zm_icon",
-		"hudIconRatio": 0,
+		"hudIconRatio": 1,
 		"iAltDropTime": 0,
 		"iBurstDelayTime": 200,
 		"iDamageType": 0,
